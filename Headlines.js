@@ -29,7 +29,8 @@ export default class Headlines extends React.Component {
   render() {
     return (
       <h2>
-        { alert(this.state.persons)}
+        News Site, currently data is not loading
+        Click edit to update news sources
       </h2>
     )
   }
